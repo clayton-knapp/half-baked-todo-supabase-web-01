@@ -155,6 +155,7 @@ footer {
 .complete {
     text-decoration: line-through;
     background-color: lightgreen;
+    pointer-events: none; 
 }
 
 .delete-button {
